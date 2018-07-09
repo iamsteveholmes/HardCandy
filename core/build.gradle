@@ -12,4 +12,6 @@ eclipse.project {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
+    compile group: 'io.github.libktx', name: 'ktx-graphics', version: '1.9.8-b3'
+    compile group: 'io.github.libktx', name: 'ktx-collections', version: '1.9.8-b3'
 }

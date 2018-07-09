@@ -1,0 +1,180 @@
+jump.png
+size: 249, 1512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j
+  rotate: false
+  xy: 0, 0
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 0
+j
+  rotate: false
+  xy: 83, 0
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 1
+j
+  rotate: false
+  xy: 166, 0
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 2
+j
+  rotate: false
+  xy: 0, 168
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 3
+j
+  rotate: false
+  xy: 83, 168
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 4
+j
+  rotate: false
+  xy: 166, 168
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 5
+j
+  rotate: false
+  xy: 0, 336
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 6
+j
+  rotate: false
+  xy: 83, 336
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 7
+j
+  rotate: false
+  xy: 166, 336
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 8
+j
+  rotate: false
+  xy: 0, 504
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 9
+j
+  rotate: false
+  xy: 83, 504
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 10
+j
+  rotate: false
+  xy: 166, 504
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 11
+j
+  rotate: false
+  xy: 0, 672
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 12
+j
+  rotate: false
+  xy: 83, 672
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 13
+j
+  rotate: false
+  xy: 166, 672
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 14
+j
+  rotate: false
+  xy: 0, 840
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 15
+j
+  rotate: false
+  xy: 83, 840
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 16
+j
+  rotate: false
+  xy: 166, 840
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 17
+j
+  rotate: false
+  xy: 0, 1008
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 18
+j
+  rotate: false
+  xy: 83, 1008
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 19
+j
+  rotate: false
+  xy: 166, 1008
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 20
+j
+  rotate: false
+  xy: 0, 1176
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 21
+j
+  rotate: false
+  xy: 83, 1176
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 22
+j
+  rotate: false
+  xy: 166, 1176
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 23
+j
+  rotate: false
+  xy: 0, 1344
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: 24
